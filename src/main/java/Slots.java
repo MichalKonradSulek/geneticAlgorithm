@@ -1,0 +1,31 @@
+public enum Slots {
+    MONDAY_1,
+    MONDAY_2,
+    MONDAY_3,
+    MONDAY_4,
+    MONDAY_5,
+
+    TUESDAY_1,
+    TUESDAY_2,
+    TUESDAY_3,
+    TUESDAY_4,
+    TUESDAY_5,
+
+    WEDNESDAY_1,
+    WEDNESDAY_2,
+    WEDNESDAY_3,
+    WEDNESDAY_4,
+    WEDNESDAY_5,
+
+    THURSDAY_1,
+    THURSDAY_2,
+    THURSDAY_3,
+    THURSDAY_4,
+    THURSDAY_5,
+
+    FRIDAY_1,
+    FRIDAY_2,
+    FRIDAY_3,
+    FRIDAY_4,
+    FRIDAY_5,
+}
